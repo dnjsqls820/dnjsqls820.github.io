@@ -19,8 +19,8 @@ padding: 5px;
 "></center>
 
 
-* NAME : JiWon, Hyeon
-* MAJOR : Computer Science Engineering
+* NAME : Wonbin, Lee
+* MAJOR : BackEnd Devloper
 
 ## Career & Activities
  - Undergraduate resercher at Embedded System LAB (2018.06 ~ 2020.12)
@@ -33,7 +33,7 @@ padding: 5px;
  * Internet of Things
 
 ## Contact
- * Email : zlone1208@gmail.com
- * Git : [https://github.com/Hyeonjiwon](https://github.com/Hyeonjiwon)
- * Blog : [https://hyeonjiwon.github.io/](https://hyeonjiwon.github.io/)
+ * Email : ddobin_lee@naver/com
+ * Git : [https://github.com/dnjsqls820](https://github.com/dnjsqls820)
+ * Blog : [https://dnjsqls820.github.io/](https://dnjsqls820.github.io/)
 
