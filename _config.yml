@@ -109,13 +109,13 @@ analytics:
 author:
   name             : "Lee wonbin"
   avatar           : "/assets/img/me.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "끄적끄적 공부 블로그."
   location         : "South Korea"
   email            : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:zlone1208@gmail.com
+      url: ddobin_lee@naver.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
