@@ -23,14 +23,18 @@ padding: 5px;
 * MAJOR : BackEnd Devloper
 
 ## Career & Activities
- - Undergraduate resercher at Embedded System LAB (2018.06 ~ 2020.12)
- - LikeLion 7th @SCH (2019.03 ~ 2019.12)
+ - Mutilmedia LAB (2017.03 ~ 2022.11)
+ ## - LikeLion 7th @SCH (2019.03 ~ 2019.12)
 
-## Current Interest
- * Bigdata
- * Android Applicaiton 
+## Interest
+ * Django
+ * Spring legacy 
  * Web Development
- * Internet of Things
+ * DataBase ORM
+ * Solidity
+
+ ## Awards
+ * Korea Multimedia Society Best Thesis
 
 ## Contact
  * Email : ddobin_lee@naver/com
