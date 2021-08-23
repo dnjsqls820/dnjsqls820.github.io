@@ -24,7 +24,6 @@ padding: 5px;
 
 ## Career & Activities
  - Mutilmedia LAB (2017.03 ~ 2022.11)
- ## - LikeLion 7th @SCH (2019.03 ~ 2019.12)
 
 ## Interest
  * Django
@@ -33,7 +32,7 @@ padding: 5px;
  * DataBase ORM
  * Solidity
 
- ## Awards
+## Award
  * Korea Multimedia Society Best Thesis
 
 ## Contact
