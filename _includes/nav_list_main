@@ -5,6 +5,7 @@
 <nav class="nav__list">
   <input id="ac-toc" name="accordion-toc" type="checkbox" />
   <label for="ac-toc">{{ site.data.ui-text[site.locale].menu_label }}</label>
+  <style>.ca {text-transform: none;}</style>
   <ul class="nav__items" id="category_tag_menu">
       <!--전체 글 수-->
       <li>
@@ -19,21 +20,21 @@
                 <!--category[1].size 로 해당 카테고리를 가진 글의 개수 표시--> 
                 {% for category in site.categories %}
                     {% if category[0] == "Django" %}
-                        <li><a href="/categories/django" class="">Django ({{category[1].size}})</a></li>
+                        <li><a href="/categories/django" class="ca">Django ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "ORM" %}
-                        <li><a href="/categories/orm" class="">ORM ({{category[1].size}})</a></li>
+                        <li><a href="/categories/orm" class="ca">ORM ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "JSP" %}
-                        <li><a href="/categories/JSP" class="">JSP ({{category[1].size}})</a></li>
+                        <li><a href="/categories/JSP" class="ca">JSP ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
@@ -43,14 +44,14 @@
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "PostgreSql" %}
-                        <li><a href="/categories/Postgre" class="">Postgre ({{category[1].size}})</a></li>
+                        <li><a href="/categories/Postgre" class="ca">Postgre ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "MySql" %}
-                        <li><a href="/categories/Mysql" class="">Mysql ({{category[1].size}})</a></li>
+                        <li><a href="/categories/Mysql" class="ca">Mysql ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
@@ -60,11 +61,20 @@
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "Solidity" %}
-                        <li><a href="/categories/solidity" class="">Solidity ({{category[1].size}})</a></li>
+                        <li><a href="/categories/solidity" class="ca">Solidity ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
             </span>
+            <span class="nav__sub-title">꿀팁
+                <ul>
+                    {% for category in site.categories %}
+                        {% if category[0] == "Tip" %}
+                            <li><a href="/categories/tip" class="ca">Tip ({{category[1].size}})</a></li>
+                        {% endif %}
+                    {% endfor %}
+                </ul>
+                </span>
       </li>
   </ul>
 </nav>
