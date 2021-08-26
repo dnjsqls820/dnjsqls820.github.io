@@ -1,5 +1,5 @@
 ---
-title: "TIP"
+title: "Tip"
 layout: archive
 permalink: categories/tips
 athor_profile: true
