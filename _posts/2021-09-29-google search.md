@@ -2,7 +2,7 @@
 title:  'Github 구글 검색 노출 시키기' 
 excerpt: 'Git블로그를 구글에 노출시켜보자' 
 categories: 
- - tip 
+ - Tip
 tags:
   - [Github,blog,Google Search]
 toc: true
