@@ -32,7 +32,7 @@ last_modified_at: 2022-04-13
 >
 > 현재 home폴더의 구조는 다음과 같습니다.
 >
-> ![스크린샷 2022-04-13 오후 1.48.13](/Users/wonbin/Library/Application Support/typora-user-images/스크린샷 2022-04-13 오후 1.48.13.png)
+> ![](https://ifh.cc/g/SNag8S.png)
 >
 > 여기서 home폴더 안에 templates폴더를 생성해주세요.
 >
@@ -40,7 +40,7 @@ last_modified_at: 2022-04-13
 >
 > templates폴더안에 또 다시 home폴더를 생성한 뒤 home폴더 안에 index.html이라는 이름의 파일을 생성해주세요.
 >
-> ![스크린샷 2022-04-13 오후 1.49.04](/Users/wonbin/Library/Application Support/typora-user-images/스크린샷 2022-04-13 오후 1.49.04.png)
+> ![](https://ifh.cc/g/kPVLFl.png)
 >
 > 여기서 templates 폴더 안에 home 폴더를 다시 만든 이유는 충돌 방지 때문입니다.
 >
@@ -48,7 +48,7 @@ last_modified_at: 2022-04-13
 >
 > home/templates/home/index.html 파일안에 다음과 같이 간단하게 내용을 채워넣습니다.
 >
-> ![스크린샷 2022-04-13 오후 1.50.50](/Users/wonbin/Library/Application Support/typora-user-images/스크린샷 2022-04-13 오후 1.50.50.png)
+> ![](https://ifh.cc/g/nJ42jx.jpg)
 >
 > 여기까지의 내용은 다음과 같습니다.
 >

@@ -51,9 +51,11 @@ django-admin startproject blog
 
 그럼 다음과 같이 프로젝트 폴더와 파일들이 생성된 것을 볼 수 있습니다.
 
-![스크린샷 2022-04-13 오후 1.19.34](/Users/wonbin/Library/Application Support/typora-user-images/스크린샷 2022-04-13 오후 1.19.34.png)
+![](https://ifh.cc/g/aQhmXV.png)
 
-blog 폴더가 두개가 있는데 헷갈리니까 상위폴더의 이름을 django-blog로 변환해줍니다.![스크린샷 2022-04-13 오후 1.21.01](/Users/wonbin/Library/Application Support/typora-user-images/스크린샷 2022-04-13 오후 1.21.01.png)
+blog 폴더가 두개가 있는데 헷갈리니까 상위폴더의 이름을 django-blog로 변환해줍니다.
+
+![](https://ifh.cc/g/k9s5xW.png)
 
 프로젝트 생성이 끝났습니다.
 
@@ -77,7 +79,7 @@ blog 폴더가 두개가 있는데 헷갈리니까 상위폴더의 이름을 dja
 >
 >Django는 기본적으로 sqlite3를 사용하는데 저희는 postgresql을 사용할 것이기 때문에 blog/ settings.py에 DATABASES부분을 아래처럼 바꿔줍니다.
 >
->![스크린샷 2022-04-13 오후 1.22.55](/Users/wonbin/Library/Application Support/typora-user-images/스크린샷 2022-04-13 오후 1.25.55.png)
+>![](https://ifh.cc/g/RgPzz4.png)
 >
 >그 다음 아래 구문을 통해 데이터베이스에 마이그레이트 하면 연결이 완료됩니다.
 >
@@ -140,7 +142,7 @@ blog 폴더가 두개가 있는데 헷갈리니까 상위폴더의 이름을 dja
 >
 >    위 커맨드를 실행시키면 로컬에서 접속가능한 서버가 생성됩니다.
 >
->    ![스크린샷 2022-04-13 오후 1.41.38](/Users/wonbin/Library/Application Support/typora-user-images/스크린샷 2022-04-13 오후 1.41.38.png)
+>    ![](https://ifh.cc/g/mqsOz6.png)
 >
 >    브라우저를 열어 http://127.0.0.1:8000/ 라고 입력해봅니다.
 >
