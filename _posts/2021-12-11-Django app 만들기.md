@@ -1,10 +1,12 @@
 ---
 title:  'Django app 만들기'
 excerpt:  'Djnago를 이용해서 app을 만들어보자'
-categories: 
- -Django
+
+categories:
+  - Django
 tags:
   - [Django,WEB]
+  - 
 toc: true
 toc_sticky: true
 date: 2021-12-11
