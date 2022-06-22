@@ -24,12 +24,13 @@ padding: 5px;
 
 ## Career & Activities
  - Mutilmedia LAB (2017.03 ~ 2022.11)
+ - 한국전력공사 전력연구원 산학연수생(2022.03.07~2022.08.21)
 
 ## Interest
  * Django
- * Spring legacy 
  * Web Development
  * DataBase ORM
+ * Postgresql
  * Solidity
 
 ## Award
@@ -39,4 +40,5 @@ padding: 5px;
  * Email : ddobin_lee@naver/com
  * Git : [https://github.com/dnjsqls820](https://github.com/dnjsqls820)
  * Blog : [https://dnjsqls820.github.io/](https://dnjsqls820.github.io/)
+ * Notion : [https://invited-bench-f79.notion.site/DDoBin-d97ad32b2c4749b7b31026208c90ec21](https://invited-bench-f79.notion.site/DDoBin-d97ad32b2c4749b7b31026208c90ec21)
 
